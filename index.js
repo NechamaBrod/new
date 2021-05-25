@@ -107,3 +107,4 @@ bar = 23
 
 console.log((foo==bar)+" "+(foo===bar))
 console.log(typeof(foo)+" "+typeof(bar))
+console.log("commit log")
